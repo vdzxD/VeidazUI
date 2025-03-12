@@ -1,0 +1,42 @@
+## Title: VeidazUI
+## Interface: 40400
+## Author: Veidaz
+## Version: 1.0
+## OptionalDeps: Masque 
+## SavedVariables: MyAddonDB
+## SavedVariables: ArenaLeaderboard_SavedVars
+
+
+BiggerDebuffs.lua
+BiggerDebuffsFriendly.lua
+VeiPlates.lua
+ArenaFrameBuffs.lua
+ArenaFrame.lua
+CastBar.lua
+VeiFrames.lua
+GlowTest.lua
+ClassTextures.lua
+PlayerCastBar.lua
+RaidFrameTrinkets.lua
+DetailsBorders.lua
+PlayerBuffs.lua
+PlayerDebuffs.lua
+RaidFrameHighlight.lua
+DRTracker.lua
+ArenaTrinketTracker.lua
+SpellTracker.lua
+RaidFrameMods.lua
+Gryphons.lua
+Misc.lua
+MicroMenu.lua
+VeiPlatesBeauty.lua
+TargetBuffFiltering.lua
+VeiPlatesAuras.lua
+RaidFramePositions.lua
+TargetCastBar.lua
+DarkMode.lua
+Minimap.lua
+CompactRaidFrameManager.lua
+ChatFrame.lua
+VeiPlatesCC.lua
+
